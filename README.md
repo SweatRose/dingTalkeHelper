@@ -26,10 +26,6 @@
 
  ### 点击此处直接安装安卓版：[dingTalkHelper](https://mp-b31ef451-5b3f-4638-bb8d-b2d7267a1e43.cdn.bspapp.com/cloudstorage/_20231219154517.apk)
 
-***
- # 若HbuilderX无法找到手机，请参阅文档：[https://ask.dcloud.net.cn/article/97](https://ask.dcloud.net.cn/article/97)
-***
-
  ## 注意
 * 此应用【钉钉定时打卡助手】仅限用于定时打开钉钉，非定位修改软件，需要把手机放在公司。
 * 【首次跳转】部分设备第一次跳转至钉钉时需要点击“允许”才可以正常使用定时跳转功能。
